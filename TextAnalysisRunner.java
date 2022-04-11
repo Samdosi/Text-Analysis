@@ -1,5 +1,4 @@
-/* Name:
- * Dr. Steinberg
+/*
  * COP3330
  * Programming Assignment 2
  */
